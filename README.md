@@ -1,4 +1,4 @@
-# Halloween Sale - Hacker Rank platform problem
+# The time in words - Hacker Rank platform problem
 Solutions in Java, Kotlin and Ruby
 
 Given the time in numerals we may convert it into words, as shown below:
