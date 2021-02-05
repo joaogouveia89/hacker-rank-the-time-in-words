@@ -34,4 +34,4 @@ The first line contains ***h***, the hours portion The second line contains ***m
 
 ### Constraints
 * 1 <= h <= p <= 12
-* 0 <= d <= 60
+* 0 <= m <= 60
