@@ -32,3 +32,5 @@ input_files.each do |input_file|
 		end
 	end
 end
+finish = Time.now
+puts("solved all the test cases in " + (1000 * (finish - start)).round(2).to_s + "ms")
